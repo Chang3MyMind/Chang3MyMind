@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou o Matheus Mattos
 
-Sou um **Desenvolvedor Front-End Júnior** com paixão por transformar designs em interfaces modernas, funcionais e responsivas. Minha base técnica sólida em **HTML5, CSS3, JavaScript** e **Tailwind CSS** foi consolidada por meio de projetos práticos que demonstram atenção ao layout, acessibilidade e boas práticas.
+Sou um **Desenvolvedor Front-End** apaixonado por construir aplicações web modernas e experiências de usuário memoráveis.
 
-Atualmente, estou cursando **Ciência da Computação** e desenvolvendo uma nova versão do meu portfólio com foco em escalabilidade, utilizando **React.js**, **CSS Grid** e **Tailwind CSS**.
+Minhas stacks principais são **React e Tailwind CSS**, com foco em criar interfaces interativas, acessíveis e com garantia de qualidade através de testes automatizados. Recentemente, finalizei a reescrita completa do meu portfólio, que você pode conferir abaixo!
 
 ---
 
@@ -12,30 +12,25 @@ Atualmente, estou cursando **Ciência da Computação** e desenvolvendo uma nova
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📚 O que estou aprendendo agora
+## Meus Projetos Principais
 
-- 📦 **React.js** – Construção de componentes reutilizáveis e gerenciamento de estado.
-- 🎯 **JavaScript Moderno (ES6+)** – Promises, destructuring, arrow functions e mais.
-- 🧩 **Boas Práticas em Acessibilidade** – Interfaces inclusivas e semanticamente corretas.
+### Meu Portfólio Pessoal
 
----
+Uma Single Page Application (SPA) completa, construída do zero para demonstrar minhas habilidades. O projeto foi desenvolvido com foco em interatividade, acessibilidade (nota 100 no Lighthouse) e boas práticas de código.
 
-## 🚧 Portfólio em desenvolvimento
+* **Stack:** `React` `Vite` `Tailwind CSS` `Vitest` `EmailJS`
+* **Features:** Validação de formulário, hooks customizados, testes unitários, animações de UI.
 
-Uma nova versão do meu portfólio pessoal está sendo construída com:
-
-- ✅ Design planejado no Figma
-- ✅ CSS Grid e Tailwind CSS para layout moderno e responsivo
-- 🔜 Integração com React.js para componentes dinâmicos
-
-Acompanhe o progresso aqui:  
-📁 [chang3mymind.github.io (versão legado)](https://github.com/Chang3MyMind/chang3mymind.github.io)
-
+🔗 **[Acesse o site](https://portfolio-ten-steel-18.vercel.app)**
+📁 **[Veja o código](https://github.com/Chang3MyMind/portfolio)**
 ---
 
 ## 🤝 Vamos nos conectar?
