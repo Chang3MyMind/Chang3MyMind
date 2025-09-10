@@ -31,6 +31,7 @@ Uma Single Page Application (SPA) completa, construída do zero para demonstrar 
 
 🔗 **[Acesse o site](https://portfolio-ten-steel-18.vercel.app)**
 📁 **[Veja o código](https://github.com/Chang3MyMind/portfolio)**
+
 ---
 
 ## 🤝 Vamos nos conectar?
