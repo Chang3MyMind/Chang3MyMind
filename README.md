@@ -1,59 +1,54 @@
-# 👋 Olá! Eu sou o Matheus Mattos
+# Matheus Mattos
+### Front-End Developer
 
-Sou um **Desenvolvedor Front-End** focado em construir aplicações web robustas, performáticas e de ponta a ponta com o ecossistema **React** e **Next.js**.
-
-Minha paixão é transformar ideias em código limpo, escalável e testável. Em uma jornada de aprendizado acelerado, construí aplicações full-stack, da ideação ao deploy, com foco em arquitetura moderna e nas melhores práticas do mercado, como **TypeScript**, **Testes Automatizados** e **CI/CD**.
-
----
-
-## 🛠️ Habilidades e Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Desenvolvedor experiente em **React**, **Next.js** e **TypeScript**.
 
 ---
 
-## 🚀 Meus Projetos Principais
+## Tech Stack
 
-### Cartão de Visitas Digital
+**Core:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Uma aplicação **full-stack** construída com **Next.js App Router**, simulando um "Linktree". O projeto inclui um painel de administração protegido para gerenciamento de conteúdo, demonstrando um ciclo de desenvolvimento completo, do backend à interface.
+**Estilização & UI:**
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-* **Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Zod` `UUID` `Vercel`
-* **Features:** CRUD completo com Server Actions, rota de admin protegida com Middleware, revalidação de cache on-demand (`revalidatePath`), design responsivo.
-
-🔗 **[Acesse o site](https://cartao-de-vistas-digital.vercel.app)**
-📁 **[Veja o código](https://github.com/Chang3MyMind/Cartao-de-Vistas-Digital)**
-
-### Meu Portfólio Pessoal (SPA)
-
-Uma Single Page Application (SPA) completa, construída com foco em interatividade, acessibilidade (nota 100 no Lighthouse) e qualidade de código com testes unitários.
-
-* **Stack:** `React` `Vite` `Tailwind CSS` `Vitest` `EmailJS`
-* **Features:** Validação de formulário, hooks customizados, testes de UI, animações.
-
-🔗 **[Acesse o site](https://portfolio-ten-steel-18.vercel.app)**
-📁 **[Veja o código](https://github.com/Chang3MyMind/portfolio)**
+**Ferramentas & Qualidade:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Projetos
+
+### [Cartão de Visitas Digital](https://cartao-de-vistas-digital.vercel.app)
+Aplicação **Full-stack** para gerenciamento de links.
+* **Arquitetura:** Next.js App Router, Server Actions e Middleware.
+* **Destaques:** Painel administrativo protegido, CRUD completo, revalidação de cache on-demand e validação de dados com Zod.
+* **Stack:** `Next.js` `TypeScript` `Tailwind` `Zod`
+
+[Repositório](https://github.com/Chang3MyMind/Cartao-de-Vistas-Digital)
+
+### [Portfólio Pessoal](https://portfolio-ten-steel-18.vercel.app)
+Single Page Application com enfase em performance e acessibilidade.
+* **Métricas:** Pontuação 100/100 em Acessibilidade e SEO.
+* **Destaques:** Testes unitários de interface, hooks customizados e animações otimizadas.
+* **Stack:** `React` `Vite` `Vitest` `Tailwind`
+
+[Repositório](https://github.com/Chang3MyMind/portfolio)
+
+---
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmattos4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmattos.r@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chang3MyMind&show_icons=true&theme=radical)
+</div>
