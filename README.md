@@ -28,7 +28,7 @@ Desenvolvedor experiente em **React**, **Next.js** e **TypeScript**.
 
 ## Projetos
 
-### [Cartão de Visitas Digital](https://cartao-de-vistas-digital.vercel.app)
+### [Cartão de Visitas Digital]([https://matheus-cartao-visitas.vercel.app])
 Aplicação **Full-stack** para gerenciamento de links.
 * **Arquitetura:** Next.js App Router, Server Actions e Middleware.
 * **Destaques:** Painel administrativo protegido, CRUD completo, revalidação de cache on-demand e validação de dados com Zod.
@@ -37,7 +37,7 @@ Aplicação **Full-stack** para gerenciamento de links.
 [Repositório](https://github.com/Chang3MyMind/Cartao-de-Vistas-Digital)
 
 ### [Portfólio Pessoal](https://portfolio-ten-steel-18.vercel.app)
-Single Page Application com enfase em performance e acessibilidade.
+Single Page Aplicação com ênfase em performance e acessibilidade.
 * **Métricas:** Pontuação 100/100 em Acessibilidade e SEO.
 * **Destaques:** Testes unitários de interface, hooks customizados e animações otimizadas.
 * **Stack:** `React` `Vite` `Vitest` `Tailwind`
