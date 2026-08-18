@@ -1,4 +1,4 @@
-[# Matheus Mattos
+# Matheus Mattos
 ### Front-End Developer
 
 Desenvolvedor experiente em **React**, **Next.js** e **TypeScript**.
@@ -28,16 +28,16 @@ Desenvolvedor experiente em **React**, **Next.js** e **TypeScript**.
 
 ## Projetos
 
-### [Cartão de Visitas Digital]([https://matheus-cartao-visitas.vercel.app])
+### [Cartão de Visitas Digital](https://matheus-cartao-visitas.vercel.app)
 Aplicação **Full-stack** para gerenciamento de links.
 * **Arquitetura:** Next.js App Router, Server Actions e Middleware.
 * **Destaques:** Painel administrativo protegido, CRUD completo, revalidação de cache on-demand e validação de dados com Zod.
 * **Stack:** `Next.js` `TypeScript` `Tailwind` `Zod`
 
-[Repositório](https://github.com/Chang3MyMind/Cartao-de-Vistas-Digital)
+[Repositório](https://github.com/Chang3MyMind/Cartao-de-Visitas-Digital)
 
 ### [Portfólio Pessoal](https://portfolio-ten-steel-18.vercel.app)
-Single Page Aplicação com ênfase em performance e acessibilidade.
+Single Page Application (SPA) com ênfase em performance e acessibilidade.
 * **Métricas:** Pontuação 100/100 em Acessibilidade e SEO.
 * **Destaques:** Testes unitários de interface, hooks customizados e animações otimizadas.
 * **Stack:** `React` `Vite` `Vitest` `Tailwind`
@@ -69,4 +69,3 @@ Orquestração de ferramentas de IA (Claude/Gemini) para planejar e executar o d
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmattos.r@gmail.com)
 
 </div>
-](https://github.com/Chang3MyMind/Cartao-de-Vistas-Digital)
