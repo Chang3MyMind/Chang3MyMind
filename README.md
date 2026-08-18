@@ -34,7 +34,7 @@ Aplicação **Full-stack** para gerenciamento de links.
 * **Destaques:** Painel administrativo protegido, CRUD completo, revalidação de cache on-demand e validação de dados com Zod.
 * **Stack:** `Next.js` `TypeScript` `Tailwind` `Zod`
 
-[Repositório](https://github.com/Chang3MyMind/Cartao-de-Visitas-Digital)
+[Repositório](https://github.com/Chang3MyMind/Cartao-de-Vistas-Digital)
 
 ### [Portfólio Pessoal](https://portfolio-ten-steel-18.vercel.app)
 Single Page Application (SPA) com ênfase em performance e acessibilidade.
