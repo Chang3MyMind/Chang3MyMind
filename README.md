@@ -51,13 +51,15 @@ Single Page Application com enfase em performance e acessibilidade.
 ### The Mystical Tavern (VTT)
 Atuando na refatoração arquitetural e otimização de um Virtual Tabletop em Next.js/TypeScript, utilizando fluxos avançados de Engenharia Assistida por IA.
 
-#### O que eu faço: 
+#### O que eu faço:
 Orquestração de ferramentas de IA (Claude/Gemini) para planejar e executar o desacoplamento de um sistema massivo. Atuo na revisão rigorosa de código, resolução de problemas de ciclo de vida do React (Stable Closures, Hoisting) e garantia de integridade do Supabase Realtime durante a refatoração do motor de turnos e combate.
 
- * **Pair programming com IA
- * **Arquitetura de Custom Hooks
- * **Gerenciamento de estado complexo
- * **Debug de WebSockets.
+* **Pair programming com IA**
+* **Arquitetura de Custom Hooks**
+* **Gerenciamento de estado complexo**
+* **Debug de WebSockets**
+
+*Nota: Atualmente o código-fonte é mantido em repositório privado (closed-source), com previsão de lançamento da plataforma para o ano que vem.*
 
 ---
 
