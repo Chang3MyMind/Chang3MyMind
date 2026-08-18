@@ -46,6 +46,21 @@ Single Page Application com enfase em performance e acessibilidade.
 
 ---
 
+## Projetos Atuais
+
+### The Mystical Tavern (VTT)
+Atuando na refatoração arquitetural e otimização de um Virtual Tabletop em Next.js/TypeScript, utilizando fluxos avançados de Engenharia Assistida por IA.
+
+#### O que eu faço: 
+Orquestração de ferramentas de IA (Claude/Gemini) para planejar e executar o desacoplamento de um sistema massivo. Atuo na revisão rigorosa de código, resolução de problemas de ciclo de vida do React (Stable Closures, Hoisting) e garantia de integridade do Supabase Realtime durante a refatoração do motor de turnos e combate.
+
+ * **Pair programming com IA
+ * **Arquitetura de Custom Hooks
+ * **Gerenciamento de estado complexo
+ * **Debug de WebSockets.
+
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmattos4)
